@@ -24,7 +24,7 @@ MerryCrypto is a a cryptocurrency data aggregator with an inbuilt portfolio mana
 
 ## Technologies
 
-The application is written in Typescript. The frontend was created using Angular and the backend was created usign NestJS.
+The application is written in Typescript. The frontend was created using Angular and the backend was created using NestJS. We also used a PostgreSQL database.
 
 # Installation 
 ## Backend (NestJS) installation
