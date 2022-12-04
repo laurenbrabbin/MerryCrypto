@@ -5,20 +5,26 @@ MerryCrypto is a a cryptocurrency data aggregator with an inbuilt portfolio mana
 
 ## Features
 1. Homepage/Cryptocurrency Page - Top 30 cryptocurrencies by market cap. These can be sorted by price, 24hr change, 24hr volume and name.
+
 2. Individual cryptocurrency page. The page includes:
 - Coin stats in 3 currencies: USD, GBP and EUR.
 - Price chart which displays the price change over a 24hr, 1w and 1m time period.
 - Recent news articles related to the coin. The user can click on the button 'read more' to be redirected to the full article.
 - Recent tweets regarding the coin.
+
 3. Exchange Page - A page which has data on the top 100 exchanges including trust rank, trust score, 24hr volume and the year the exchange was established. The user can also be redirected to the exchange homepage.
+
 4. News Page - This page includes all the most recent cryptocurrency news. The user can be redirected to the full news article
+
 5. User account - user can register, login and sign out
+
 6. Watchlist - users can favourite cryptocurrencies and view them in their watchlist
+
 7. Portfolio - user can input their cryptocurrency purchases and view their profit and loss.
 
 ## Technologies
 
-The application is written in Typescript. The frontend was created using Angular and then backend was created usign NestJS.
+The application is written in Typescript. The frontend was created using Angular and the backend was created usign NestJS.
 
 # Installation 
 ## Backend (NestJS) installation
